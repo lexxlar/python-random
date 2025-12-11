@@ -1,2 +1,2 @@
 # python-random
-Work with libraby random in Python
+Работа с библиотекой random в Python
